@@ -1,0 +1,56 @@
+svg{
+    width: 30px;
+    height: 30px;
+    fill: #e5e5e580;
+}
+
+svg:hover{
+    fill: #ffff;
+}
+
+.nav{
+    opacity: 0.3;
+}
+
+.card{
+    border: none;
+    background-color: #e5e5e5;
+}
+
+.product-device {
+    position: absolute;
+    right: 10%;
+    bottom: -30%;
+    width: 300px;
+    height: 540px;
+    background-color: #333;
+    border-radius: 21px;
+    transform: rotate(30deg);
+}
+
+.product-device-2 {
+    top: -25%;
+    right: auto;
+    bottom: 0;
+    left: 5%;
+    background-color: #e5e5e5;
+}
+
+.background{
+    background-image: url(./assets/background.jpg);
+    background-size: cover;
+}
+
+.logo-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+.carousel-caption{
+    color: #333;
+}
+
+.myProfile img{
+    border-radius: 5px;
+}
